@@ -1,0 +1,20 @@
+.div-1 { 
+    
+        width:350px;
+          height:250px;
+        background: lightgreen;
+       border: dotted;  
+     padding-bottom: 20px;
+     margin-right: 100px;
+      font-family: Arial, Helvetica, sans-serif;
+}
+.div-2 { 
+    
+        width:450px;
+          height:350px;
+        background: lightblue;
+       border: dotted; 
+     padding-top: 50px;
+     margin-top: 100px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
